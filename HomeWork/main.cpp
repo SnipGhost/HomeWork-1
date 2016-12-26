@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
 	Text *text = NULL;
-	menuRun(text); //Визуализированное меню
+	menuRun(text);
 	return 0;
 }
 //---------------------------------------------------------------------------

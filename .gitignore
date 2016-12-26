@@ -8,7 +8,7 @@
 *.bak
 
 #Directory for individual tasks
-[Pp]ersonal/
+#[Pp]ersonal/
 
 # Build results
 
